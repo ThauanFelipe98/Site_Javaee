@@ -1,0 +1,32 @@
+body{
+    background-image: url("../..//arquivos/img-futebol.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+form{
+    width: 40%;
+    padding: 10px 10px;
+    background-color: transparent #dddddd ;
+    margin-top: 200px;
+    margin-left: 32%;
+    border-radius: 15px;
+    
+
+    
+}
+
+
+
+.form-text{
+    color: rgb(250, 228, 31);
+    
+}
+
+label{
+    color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
